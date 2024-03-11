@@ -1,0 +1,33 @@
+.icons-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.icons-container img:nth-of-type(1) {
+    width: 160px;
+    aspect-ratio: 3/2;
+    object-fit: contain;
+    margin: 0 10px;
+}
+
+.icons-container img:nth-of-type(2) {
+    width: 90px;
+    aspect-ratio: 3/2;
+    object-fit: contain;
+    margin: 0 10px;
+}
+
+.icons-container img:nth-of-type(3) {
+    width: 150px;
+    aspect-ratio: 3/2;
+    object-fit: contain;
+    margin: 0 10px;
+}
+
+.icons-container img:nth-of-type(4) {
+    width: 150px;
+    aspect-ratio: 3/2;
+    object-fit: contain;
+    margin: 0 10px;
+}
